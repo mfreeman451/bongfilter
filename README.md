@@ -11,7 +11,7 @@ This is bongfilter $Revision: 2.4 $.  Character substitutions can
 
 ## History
 
-This as found embedded in an old [http://www.textfiles.com/magazines/BOW/bow5.txt](Brotherhood of Warez) e-zine as a uuencoded file, we took it out, cleaned it up, and are attempting to restore it to its glory.
+This as found embedded in an old [Brotherhood of Warez](http://www.textfiles.com/magazines/BOW/bow5.txt) e-zine as a uuencoded file, we took it out, cleaned it up, and are attempting to restore it to its glory.
 
 The original author (Glasshead/hojunya@ecf.toronto.edu) is no where to be found.
 
